@@ -1,0 +1,5 @@
+ls  list: mostrar todos los archivos que se encuentran en donde nos encontramos.
+pwd :  Mostrar la dirección que nos encontramos
+cd: change directory: Movilizarnos entre carpetas
+cd .. regresamos una carpeta.
+clear : Limpiar la consola

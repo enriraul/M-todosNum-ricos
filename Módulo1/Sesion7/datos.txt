@@ -1,0 +1,10 @@
+Carlos,Mendoza,34,Ingeniero
+Lucía,Ramírez,28,Doctora
+Jorge,Hernández,41,Abogado
+María,Lopez,25,Diseñadora
+Andrés,Castillo,38,Profesor
+Paula,Reyes,31,Arquitecta
+Felipe,Ortega,45,Contador
+Ana,Martínez,29,Programadora
+Luis,González,36,Chef
+Sofía,Rivera,27,Psicóloga
